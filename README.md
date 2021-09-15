@@ -1,5 +1,6 @@
 # cubesurfers-prototype
 ![c1](https://user-images.githubusercontent.com/72474584/133459319-c8e0f0d5-00e7-427b-9f3d-9cab2b02984b.PNG)
+![c2](https://user-images.githubusercontent.com/72474584/133461873-9ee110fc-e4e5-4cf9-a243-7f2589de90db.PNG)
 
 This is a Unity prototype which was an exercise for beginning my first hypercasual project.
 
