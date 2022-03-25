@@ -6,6 +6,6 @@ This is a Unity prototype which was an "exercise" for beginning my first hyperca
 
 * There are 5 colours of cubes that can be stacked at the bottom of the player like a tower(red,yellow,purple,blue,green).
 * There's a script that instantiates cubes with random colours coming towards the player.
-* Once the player has one of every colour of cubes, they disappear for getting a certain point, but getting point scripts are not yet written.
-* Player can slide on the road to collect cubes coming to him by holding mouse0 button and sliding.
+* Once the player has one of every colour of cubes, they disappear for getting a certain point, everything except point increase is written.
+* Player can slide on the road to collect cubes coming to him by holding "Mouse0" button and sliding.
 * The mountain environment moves towards player's back and loops as the time goes.
